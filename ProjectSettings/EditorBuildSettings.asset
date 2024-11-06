@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2b4e2742a101d6f49ada05c6900f86b5
+  - enabled: 0
+    path: Assets/Scenes/LocalMultiplayerTest.unity
+    guid: cd5f51f88b44e3f4b8cff11466ee31c0
+  - enabled: 0
+    path: Assets/Scenes/Stage1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Stage2.unity
+    guid: 42d6b0758430f114686d1514b40be034
+  - enabled: 0
+    path: Assets/Scenes/Stage3.unity
+    guid: 26f0a43d22bcad94f9f9d3c00cb24c21
+  - enabled: 0
+    path: Assets/Scenes/Stage4.unity
+    guid: c87406ecb53f5364ebf9c2aa0d242b14
+  - enabled: 1
+    path: Assets/RPGPP_LT/Scene/rpgpp_lt_scene_1.0.unity
+    guid: d2809ab9b90eea7419d8d90d4c505d35
+  m_configObjects: {}
